@@ -1,0 +1,10 @@
+@media (max-width: 1366px) {
+    .container {
+        min-width: 960px;
+    }
+
+    .promo {
+        background-size: 750px;
+
+    }
+}
